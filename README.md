@@ -1,2 +1,17 @@
-# ckc-souvenir
-a web used for selling souvenirs 
+竺可桢学院学生会纪念品售卖网站
+
+## 主要网址
+
+售卖网站：https://sale.ckcsu.com
+
+管理界面：https://sale.ckcsu.com (待定)
+
+## 参与编写人员
+
+前端：柯善斌
+
+后端：刘青阳
+
+## 版权所有
+
+竺可桢学院学生会 © 2017 - 
